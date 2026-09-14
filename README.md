@@ -23,67 +23,65 @@ VIZAC Client Portal is a WordPress-based consultancy client management plugin de
 
 ## Shortcodes
 
-```text
 [application_progress_bar]
+
 [display_application_progress_bar]
 
-Technology Stack
-WordPress
-PHP
-Advanced Custom Fields (ACF)
-WordPress User Meta
-WordPress Shortcodes
-WordPress Hooks and Filters
-Elementor
-BookingPress
-Project Purpose
+## Technology Stack
+
+- WordPress
+- PHP
+- Advanced Custom Fields (ACF)
+- WordPress User Meta
+- WordPress Shortcodes
+- WordPress Hooks and Filters
+- Elementor
+- BookingPress
+
+## Project Purpose
 
 The system was developed to address a common communication problem in consultancy services: clients frequently need to contact consultants to ask for updates on their application progress.
 
 VIZAC provides clients with an authenticated portal where they can view the latest status maintained by the consultancy team.
 
+## Application Workflow
 
-Application Workflow
+Application Submitted  
+↓  
+Under Review  
+↙             ↘  
+Visa Refused     Visa Approved  
+                     ↓  
+                 Visa Issued
 
-Application Submitted
-        |
-        v
-   Under Review
-      /     \
-     v       v
-Approved   Refused
-   |
-   v
-Visa Issued
-
-
-Status History
+## Status History
 
 Each application status change records:
 
-Previous status
-New status
-Date and time
-WordPress user who made the update
+- Previous status
+- New status
+- Date and time
+- WordPress user who made the update
 
 This provides an audit trail of the client application lifecycle.
 
-Academic Context
+## Academic Context
 
 This project was developed as part of MSc Computer Science work and demonstrates practical experience in:
 
-Web application development
-Authentication
-User-specific workflows
-Auditability
-Application state management
-Data governance
-Human-centred system design
-WordPress plugin development
-Current Version
+- Web application development
+- Authentication
+- User-specific workflows
+- Auditability
+- Application state management
+- Data governance
+- Human-centred system design
+- WordPress plugin development
+
+## Current Version
 
 v1.0.0
 
-Author
+## Author
 
 Muhammad Salman
