@@ -78,6 +78,20 @@ This project was developed as part of MSc Computer Science work and demonstrates
 - Human-centred system design
 - WordPress plugin development
 
+## Screenshots
+
+### Login
+![VIZAC Login](login.png)
+
+### Apply Now
+![VIZAC Apply Now](apply-now.png)
+
+### Application Progress
+![VIZAC Application Progress](application-progress.png)
+
+### Application Timeline
+![VIZAC Application Timeline](application-timeline.png)
+
 ## Current Version
 
 v1.0.0
@@ -85,3 +99,4 @@ v1.0.0
 ## Author
 
 Muhammad Salman
+
