@@ -96,6 +96,13 @@ This project was developed as part of MSc Computer Science work and demonstrates
 
 v1.0.0
 
+## Technical Project Report
+
+A detailed technical and academic report documenting the design, development, implementation, testing, evaluation, limitations, and future development of the VIZAC Client Portal is available here:
+
+[View the VIZAC Technical Project Report](docs/VIZAC_Updated_Technical_Project_Report.pdf)
+
+
 ## Author
 
 Muhammad Salman
